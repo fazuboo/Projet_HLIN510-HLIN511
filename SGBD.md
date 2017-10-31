@@ -6,4 +6,4 @@
      Age        | Consommation     | Prix
  <u>Voiture</u> | <u>Utilisateur</u> | Places
   Note          |                    | <u>Voiture</u>
---------------- |------------------- | <u>Utilisateur</u>
+                |                    | <u>Utilisateur</u>
